@@ -1,8 +1,7 @@
 # Resources
 This is a collection of professional resources that I have found useful throughout my career. Subject to change. 
 
-Last Updated: 2024-07-12
-
+Last Updated: 2025-01-03
 
 ## Table of Contents
 1. [Books](#books) 
@@ -22,8 +21,16 @@ Last Updated: 2024-07-12
 
 ## Articles
 
+### Distributed Tracing 
+- [A Practitioner's Guide to Wide Events](https://jeremymorrell.dev/blog/a-practitioners-guide-to-wide-events/) - by @jeremymorrell.dev 
+    - This is a thorough guide for implementing and utilizing tracing for services. Recommended for anyone looking to level up their tracing practices.  
+
 ### Golang 
 - [Go's work-stealing scheduler](https://rakyll.org/scheduler/) - by @rakyll 
     - Great deep dive into how go routines are scheduled
 
+## Talks / Videos
 
+### Golang
+- [Contexts in Context](https://www.youtube.com/watch?v=GhRG_7X4BPI) - Matt Heath @ LondonGophers
+    - I reference this every so often when I need a refresher on design patterns around the Go context. 
