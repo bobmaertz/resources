@@ -29,6 +29,11 @@ Last Updated: 2025-01-03
 - [Go's work-stealing scheduler](https://rakyll.org/scheduler/) - by @rakyll 
     - Great deep dive into how go routines are scheduled
 
+### Data Structures
+- [Bloom Filters](https://samwho.dev/bloom-filters/)
+    - Interactive walkthrough and explanation of bloom filters
+
+
 ## Talks / Videos
 
 ### Golang
