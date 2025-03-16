@@ -33,6 +33,9 @@ Last Updated: 2025-01-03
 - [Bloom Filters](https://samwho.dev/bloom-filters/)
     - Interactive walkthrough and explanation of bloom filters
 
+### Performance 
+- [IO Devices and Latency](https://planetscale.com/blog/io-devices-and-latency) 
+    - Article dives deep into relative IO speed. Great piece illustrating differences between storage technologies. Provides a foundation to build intuition around various storage IO latency. 
 
 ## Talks / Videos
 
