@@ -37,6 +37,11 @@ Last Updated: 2025-01-03
 - [IO Devices and Latency](https://planetscale.com/blog/io-devices-and-latency) 
     - Article dives deep into relative IO speed. Great piece illustrating differences between storage technologies. Provides a foundation to build intuition around various storage IO latency. 
 
+### Product Engineering
+- [What is a Product Engineer](https://posthog.com/blog/what-is-a-product-engineer)
+
+
+
 ## Talks / Videos
 
 ### Golang
