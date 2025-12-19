@@ -1,7 +1,7 @@
 # Resources
 This is a collection of professional resources that I have found useful throughout my career. Subject to change. 
 
-Last Updated: 2025-01-03
+Last Updated: 2025-12-19
 
 ## Table of Contents
 1. [Books](#books) 
